@@ -74,7 +74,7 @@ func (app *App) getDevices() {
           current_device := devices[value].(map[string]interface{})
 
           fmt.Println("| Hostname |", current_device["host-name"],"| Device ID |", current_device["deviceId"],
-          "| Reachability |", current_device["reachability"],"| Version |", "| Version |", current_device["version"])
+          "| Reachability |", current_device["reachability"], "| Version |", current_device["version"])
 
         }
 

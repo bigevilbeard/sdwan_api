@@ -2,9 +2,9 @@
 
 ## Introduction
 
-The Cisco SDWAN software provides a REST API, which is a programmatic interface for controlling, configuring, and monitoring the Viptela devices in an overlay network. You access the REST API through the vManage web server.
+The Cisco SDWAN software provides a REST API, which is a programmatic interface for controlling, configuring, and monitoring the Cisco SDWAN devices in an overlay network. You access the REST API through the vManage web server.
 
-A REST API is a web service API that adheres to the REST, or Representational State Transfer, architecture. The REST architecture uses a stateless, client–server, cacheable communications protocol. The Viptela vManage NMS web server uses HTTP and its secure counterpart, HTTPS, as the communications protocol. REST applications communicate over HTTP or HTTPS using standard HTTP methods to make calls between network devices. These standard HTTP methods include:
+A REST API is a web service API that adheres to the REST, or Representational State Transfer, architecture. The REST architecture uses a stateless, client–server, cacheable communications protocol. The Cisco SDWAN vManage NMS web server uses HTTP and its secure counterpart, HTTPS, as the communications protocol. REST applications communicate over HTTP or HTTPS using standard HTTP methods to make calls between network devices. These standard HTTP methods include:
 
 - GET—Retrieve or read information.
 - PUT—Update an object.
